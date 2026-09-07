@@ -43,11 +43,14 @@
 
 ---
 
-### 🌐 Teste os Projetos no Navegador
+### 🌐 Teste os Projetos Online (Demonstração ao Vivo)
 
-- 🎮 **Pixelhub:** [Acessar Demonstração](https://alicesilva2012.github.io/pixelhub/) | [Ver Código](https://github.com/AliceSilva2012/pixelhub)
-- 🐉 **Pokédex:** [Acessar Demonstração](https://alicesilva2012.github.io/pokedex/) | [Ver Código](https://github.com/AliceSilva2012/pokedex)
-- 🍔 **Deliveryhub:** [Acessar Demonstração](https://alicesilva2012.github.io/deliveryhub/) | [Ver Código](https://github.com/AliceSilva2012/deliveryhub)
+Clique nos links abaixo para navegar e testar a aplicação diretamente no seu navegador:
+
+- 🎮 **Pixelhub:** [Acessar Aplicação](https://pixelhhub.netlify.app/) • [Ver Repositório](https://github.com/AliceSilva2012/pixelhub)
+- 🐉 **Pokédex:** [Acessar Aplicação](https://hubpokedex.netlify.app) • [Ver Repositório](https://github.com/AliceSilva2012/pokedex)
+- 🍔 **Deliveryhub:** [Acessar Aplicação](https://deliveryhhub.netlify.app) • [Ver Repositório](https://github.com/AliceSilva2012/deliveryhub)
+- 🔥 **projetoSTEAM:** [Ver Repositório](https://github.com/AliceSilva2012/projetoSTEAM)
 
 ---
 
