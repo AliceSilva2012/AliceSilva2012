@@ -46,7 +46,7 @@
 ### 🌐 Teste os Projetos Online (Demonstração ao Vivo)
 
 > 📱💻 **Todos os projetos são totalmente responsivos!**  
-> Você pode abrir, navegar e testar a experiência completa tanto pelo celular quanto pelo computador (todos os projetos a seguir são responsivos).
+> Você pode abrir, navegar e testar a experiência completa tanto pelo celular quanto pelo computador.
 
 Clique nos links abaixo para navegar e testar a aplicação diretamente no seu navegador:
 
