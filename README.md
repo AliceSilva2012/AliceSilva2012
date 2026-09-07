@@ -43,12 +43,11 @@
 
 ---
 
-### 📊 Estatísticas no GitHub
+### 🌐 Teste os Projetos no Navegador
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliceSilva2012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas da Alice" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceSilva2012&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" height="150" />
-</div>
+- 🎮 **Pixelhub:** [Acessar Demonstração](https://alicesilva2012.github.io/pixelhub/) | [Ver Código](https://github.com/AliceSilva2012/pixelhub)
+- 🐉 **Pokédex:** [Acessar Demonstração](https://alicesilva2012.github.io/pokedex/) | [Ver Código](https://github.com/AliceSilva2012/pokedex)
+- 🍔 **Deliveryhub:** [Acessar Demonstração](https://alicesilva2012.github.io/deliveryhub/) | [Ver Código](https://github.com/AliceSilva2012/deliveryhub)
 
 ---
 
