@@ -37,7 +37,7 @@
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
 | ⭐ **[pixelhub](https://github.com/AliceSilva2012/pixelhub)** | Meu primeiro projeto web! Um catálogo de jogos desenvolvido com bastante lógica em JavaScript puro, filtros e busca. | `JavaScript` `CSS3` `HTML5` |
-| 🐉 **[pokedex](https://github.com/AliceSilva2012/pokedex)** | Pokédex interativa desenvolvida consumindo dados em tempo real da PokéAPI. | `JavaScript` `PokéAPI` `CSS3` |
+| 🐉 **[pokedex](https://github.com/AliceSilva2012/pokedex)** | Pokédex interativa desenvolvida consumindo dados em tempo real da PokéAPI. | `JavaScript` `PokéAPI` `CSS3` `HTML5` |
 | 🍔 **[deliveryhub](https://github.com/AliceSilva2012/deliveryhub)** | Cardápio digital e interativo para hamburguerias com integração direta de pedidos via WhatsApp. | `HTML5` `CSS3` `JavaScript` |
 | 🔥 **[projetoSTEAM](https://github.com/AliceSilva2012/projetoSTEAM)** | Site institucional SenseFire voltado para monitoramento e prevenção de incêndios florestais. | `HTML5` `CSS3` |
 
