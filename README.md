@@ -9,7 +9,7 @@
 
 - 🎓 **Trajetória:** Estudando desenvolvimento web do zero desde março de 2026.
 - 🎯 **Foco Atual:** Dominar **JavaScript (ES6+)**, manipulação de DOM e consumo de APIs no Front-End antes de migrar para o Back-End.
-- 🔮 **Próximos Passos:** Aprender **React** para o Front-End e **Node.js** para me tornar Full-Stack.
+- 🔮 **Próximos Passos:** Aprender **React** para o Front-End e **Node.js** para seguir com desenvolvimento Full-Stack.
 - 💡 **Destaque Pessoal:** Gosto por criar projetos interativos e funcionais, que não só tenham um layout bonito, mas que tenham funcionalidade real.
 
 ---
