@@ -1,4 +1,4 @@
-# Olá, eu sou a Alice Silva! 👋
+# Olá, eu sou a Alice! 👋
 
 > **Desenvolvedora Full-Stack em Formação**  
 > Estudo programação desde Março de 2026, focando construir uma base sólida em JavaScript para depois dominar tecnologias como React e Node.js.
