@@ -1,16 +1,57 @@
-## Hi there 👋
+# Olá, eu sou a Alice Silva! 👋
 
-<!--
-**AliceSilva2012/AliceSilva2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Desenvolvedora Full-Stack em Formação**  
+> Estudo programação desde Março de 2026, focando construir uma base sólida em JavaScript para depois dominar tecnologias como React e Node.js.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre Mim
+
+- 🎓 **Trajetória:** Estudando desenvolvimento web do zero desde março de 2026.
+- 🎯 **Foco Atual:** Dominar **JavaScript (ES6+)**, manipulação de DOM e consumo de APIs no Front-End antes de migrar para o Back-End.
+- 🔮 **Próximos Passos:** Aprender **React** para o Front-End e **Node.js** para me tornar Full-Stack.
+- 💡 **Destaque Pessoal:** Gosto por criar projetos interativos e funcionais, que não só tenham um layout bonito, mas que tenham funcionalidade real.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+#### **Front-End (Em Progresso & Estudos)**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### **Próximas Metas (Full-Stack)**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### **Ferramentas & Versionamento**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🌟 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| ⭐ **[pixelhub](https://github.com/AliceSilva2012/pixelhub)** | Meu primeiro projeto web! Um catálogo de jogos desenvolvido com bastante lógica em JavaScript puro, filtros e busca. | `JavaScript` `CSS3` `HTML5` |
+| 🐉 **[pokedex](https://github.com/AliceSilva2012/pokedex)** | Pokédex interativa desenvolvida consumindo dados em tempo real da PokéAPI. | `JavaScript` `PokéAPI` `CSS3` |
+| 🍔 **[deliveryhub](https://github.com/AliceSilva2012/deliveryhub)** | Cardápio digital e interativo para hamburguerias com integração direta de pedidos via WhatsApp. | `HTML5` `CSS3` `JavaScript` |
+| 🔥 **[projetoSTEAM](https://github.com/AliceSilva2012/projetoSTEAM)** | Site institucional SenseFire voltado para monitoramento e prevenção de incêndios florestais. | `HTML5` `CSS3` |
+
+---
+
+### 📊 Estatísticas no GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliceSilva2012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas da Alice" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceSilva2012&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" height="150" />
+</div>
+
+---
+
+### 📫 Contato
+
+Sinta-se à vontade para explorar meus repositórios, enviar sugestões nos projetos ou acompanhar minha evolução por aqui!
