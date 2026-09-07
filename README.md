@@ -64,8 +64,3 @@ Sinta-se à vontade para explorar meus repositórios, enviar sugestões nos proj
 - 💼 **LinkedIn:** *(Em breve)*
 - ✉️ **GitHub:** [@AliceSilva2012](https://github.com/AliceSilva2012)
 
-<br />
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AliceSilva2012/count.svg" alt="Contador de Visitas" />
-</div>
