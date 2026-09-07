@@ -57,3 +57,12 @@ Clique nos links abaixo para navegar e testar a aplicação diretamente no seu n
 ### 📫 Contato
 
 Sinta-se à vontade para explorar meus repositórios, enviar sugestões nos projetos ou acompanhar minha evolução por aqui!
+
+- 💼 **LinkedIn:** *(Em breve)*
+- ✉️ **GitHub:** [@AliceSilva2012](https://github.com/AliceSilva2012)
+
+<br />
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AliceSilva2012/count.svg" alt="Contador de Visitas" />
+</div>
