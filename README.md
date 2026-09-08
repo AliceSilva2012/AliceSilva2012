@@ -1,7 +1,7 @@
 # Olá, eu sou a Alice! 👋
 
 > **Desenvolvedora Full-Stack em Formação**  
-> Estudo programação desde Março de 2026, focando construir uma base sólida em JavaScript para depois dominar tecnologias e FrameWorks como React e Node.js.
+> Estudo programação desde Março de 2026, focando construir uma base sólida em JavaScript para depois dominar outras tecnologias e FrameWorks.
 
 ---
 
