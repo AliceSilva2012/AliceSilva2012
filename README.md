@@ -50,10 +50,10 @@
 
 Clique nos links abaixo para navegar e testar a aplicação diretamente no seu navegador:
 
-- 🎮 **Pixelhub:** [VEJA ESTE PROJETO NO SEU NAVEGADOR!](https://pixelhhub.netlify.app/) • [Ver Repositório](https://github.com/AliceSilva2012/pixelhub)
-- 🐉 **Pokédex:** [VEJA ESTE PROJETO NO SEU NAVEGADOR!](https://hubpokedex.netlify.app) • [Ver Repositório](https://github.com/AliceSilva2012/pokedex)
-- 🍔 **Deliveryhub:** [VEJA ESTE PROJETO NO SEU NAVEGADOR!](https://deliveryhhub.netlify.app) • [Ver Repositório](https://github.com/AliceSilva2012/deliveryhub)
-- 🔥 **projetoSTEAM:** [VEJA ESTE PROJETO NO SEU NAVEGADOR!](https://sensefire.netlify.app) • [Ver Repositório](https://github.com/AliceSilva2012/projetoSTEAM)
+- 🎮 **Pixelhub:** [VEJA ESTE PROJETO NO SEU NAVEGADOR!](https://pixelhhub.netlify.app/) | [Ver Repositório](https://github.com/AliceSilva2012/pixelhub)
+- 🐉 **Pokédex:** [VEJA ESTE PROJETO NO SEU NAVEGADOR!](https://hubpokedex.netlify.app) | [Ver Repositório](https://github.com/AliceSilva2012/pokedex)
+- 🍔 **Deliveryhub:** [VEJA ESTE PROJETO NO SEU NAVEGADOR!](https://deliveryhhub.netlify.app) | [Ver Repositório](https://github.com/AliceSilva2012/deliveryhub)
+- 🔥 **projetoSTEAM:** [VEJA ESTE PROJETO NO SEU NAVEGADOR!](https://sensefire.netlify.app) | [Ver Repositório](https://github.com/AliceSilva2012/projetoSTEAM)
 
 ---
 
