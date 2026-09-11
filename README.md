@@ -12,7 +12,7 @@
 
 Bem-vindo ao meu espaço no GitHub! Comecei minha jornada no desenvolvimento web do zero em março de 2026. Esse espaço funciona como um Hub da minha evolução e uma vitrine do que venho construindo até agora.
 
-Meu objetivo principal não é apenas fazer layouts bonitos, mas criar aplicações com uma lógica bem estruturada por trás. Por isso, estou focada em dominar **JavaScript (ES6+)**, manipulação de DOM e consumo de APIs antes de pular para a próxima fase. Meus próximos passos incluem aprender **React** para turbinar o Front-End e **Node.js** para fechar o ciclo como desenvolvedora Full-Stack.
+Meu objetivo principal não é apenas fazer layouts bonitos, mas criar aplicações com uma lógica bem estruturada por trás. Por isso, estou focada em dominar **JavaScript (ES6+)**, manipulação de DOM e consumo de APIs antes de pular para a próxima fase. Meus próximos passos incluem aprender **React** para turbinar o Front-End e **Node.js** para fechar o ciclo como desenvolvedora Full-Stack e aprender cada vez mais.
 
 ---
 
