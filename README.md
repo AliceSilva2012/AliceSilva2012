@@ -1,66 +1,54 @@
-# Olá, eu sou a Alice! 👋
+# Olá, eu sou a Alice! 👋🚀
 
-> **Desenvolvedora Full-Stack em Formação**  
-> Estudo programação desde Março de 2026, focando construir uma base sólida em JavaScript para depois dominar outras tecnologias e FrameWorks.
-
----
-
-### 🚀 Sobre Mim
-
-- 🎓 **Trajetória:** Estudando desenvolvimento web do zero desde março de 2026.
-- 🎯 **Foco Atual:** Dominar **JavaScript (ES6+)**, manipulação de DOM e consumo de APIs no Front-End antes de migrar para o Back-End.
-- 🔮 **Próximos Passos:** Aprender **React** para o Front-End e **Node.js** para seguir com desenvolvimento Full-Stack.
-- 💡 **Destaque Pessoal:** Gosto por criar projetos interativos e funcionais, que não só tenham um layout bonito, mas que sejam realmente funcionais.
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-#### **Front-End (Em Progresso & Estudos)**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### **Próximas Metas (Full-Stack)**
+> Tenho 14 anos e sou desenvolvedora Full-Stack em Formação! ☕ Construindo uma base sólida em programação para dar vida a projetos interativos e totalmente funcionais.
+
+---
+
+## 💻 Sobre Mim e Meu Foco
+
+Bem-vindo ao meu espaço no GitHub! Comecei minha jornada no desenvolvimento web do zero em março de 2026. Esse espaço funciona como um Hub da minha evolução e uma vitrine do que venho construindo até agora.
+
+Meu objetivo principal não é apenas fazer layouts bonitos, mas criar aplicações com uma lógica bem estruturada por trás. Por isso, estou focada em dominar **JavaScript (ES6+)**, manipulação de DOM e consumo de APIs antes de pular para a próxima fase. Meus próximos passos incluem aprender **React** para turbinar o Front-End e **Node.js** para fechar o ciclo como desenvolvedora Full-Stack.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+Aqui está o que eu já uso para tirar meus projetos do papel e o que estou começando a explorar:
+
+### Front-End (Em Progresso)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Próximos Passos
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-#### **Ferramentas & Versionamento**
+### Versionamento e Código
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🌟 Projetos em Destaque
+## 🌎 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| ⭐ **[pixelhub](https://github.com/AliceSilva2012/pixelhub)** | Meu primeiro projeto web! Um catálogo de jogos desenvolvido com bastante lógica em JavaScript puro, incluindo a busca/ pesuisa pelos jogos. | `JavaScript` `CSS3` `HTML5` |
-| 🐉 **[pokedex](https://github.com/AliceSilva2012/pokedex)** | Pokédex interativa desenvolvida consumindo dados em tempo real da PokéAPI. | `JavaScript` `PokéAPI` `CSS3` `HTML5` |
-| 🍔 **[deliveryhub](https://github.com/AliceSilva2012/deliveryhub)** | Site com layout moderno, com um cardápio digital e interativo para hamburgueria fictícia com integração direta de pedidos via WhatsApp. | `HTML5` `CSS3` `JavaScript` |
-| 🔥 **[projetoSTEAM](https://github.com/AliceSilva2012/projetoSTEAM)** | Site institucional SenseFire voltado para monitoramento e prevenção de incêndios florestais (Projeto escolar). | `HTML5` `CSS3` |
+📱💻 *Um detalhe: Todos os meus projetos são 100% responsivos! Você pode testar a experiência completa tanto pelo celular quanto pelo PC.*
 
----
-
-### 🌐 Teste os Projetos Online (Demonstração ao Vivo)
-
-> 📱💻 **Todos os projetos são totalmente responsivos!**  
-> Você pode abrir, navegar e testar a experiência completa tanto pelo celular quanto pelo computador.
-
-Clique nos links abaixo para navegar e testar a aplicação diretamente no seu navegador:
-
-- 🎮 **Pixelhub:** [VEJA ESTE PROJETO NO SEU NAVEGADOR!](https://pixelhhub.netlify.app/) | [Ver Repositório](https://github.com/AliceSilva2012/pixelhub)
-- 🐉 **Pokédex:** [VEJA ESTE PROJETO NO SEU NAVEGADOR!](https://hubpokedex.netlify.app) | [Ver Repositório](https://github.com/AliceSilva2012/pokedex)
-- 🍔 **Deliveryhub:** [VEJA ESTE PROJETO NO SEU NAVEGADOR!](https://deliveryhhub.netlify.app) | [Ver Repositório](https://github.com/AliceSilva2012/deliveryhub)
-- 🔥 **projetoSTEAM:** [VEJA ESTE PROJETO NO SEU NAVEGADOR!](https://sensefire.netlify.app) | [Ver Repositório](https://github.com/AliceSilva2012/projetoSTEAM)
+- ⭐ **Pixelhub:** Meu primeiro projeto web! Um catálogo de jogos com muita lógica em JavaScript puro e sistema de buscas. | [TESTE NO NAVEGADOR!](https://pixelhhub.netlify.app/) | [Ver Repositório](https://github.com/AliceSilva2012/pixelhub)
+- 🐉 **Pokédex:** Uma Pokédex interativa que consome dados reais da PokéAPI em tempo real. | [TESTE NO NAVEGADOR!](https://hubpokedex.netlify.app) | [Ver Repositório](https://github.com/AliceSilva2012/pokedex)
+- 🍔 **Deliveryhub:** Cardápio digital moderno e interativo com integração direta para pedidos via WhatsApp. | [TESTE NO NAVEGADOR!](https://deliveryhhub.netlify.app) | [Ver Repositório](https://github.com/AliceSilva2012/deliveryhub)
+- 🔥 **Projeto STEAM:** Site institucional (SenseFire) focado em monitoramento e prevenção de incêndios florestais (inicialmente um projeto escolar). | [TESTE NO NAVEGADOR!](https://sensefire.netlify.app) | [Ver Repositório](https://github.com/AliceSilva2012/projetoSTEAM)
 
 ---
 
-### 📫 Contato
+## 📫 Bora trocar uma ideia?
 
-Sinta-se à vontade para explorar meus repositórios, enviar sugestões nos projetos ou acompanhar minha evolução por aqui!
+Sinta-se à vontade para explorar meus repositórios, mandar sugestões nos projetos ou acompanhar minha evolução por aqui!
 
-- 💼 **LinkedIn:** *(Em breve)*
 - ✉️ **GitHub:** [@AliceSilva2012](https://github.com/AliceSilva2012)
-
+- 💼 **LinkedIn:** *(Em breve)*
