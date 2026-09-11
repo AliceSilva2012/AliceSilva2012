@@ -6,7 +6,7 @@
 
 > Tenho 14 anos e sou desenvolvedora Full-Stack em Formação! ☕ Construindo uma base sólida em programação para dar vida a projetos interativos e totalmente funcionais.
 > 
-> 🌐 **[CLIQUE AQUI PARA VER MEU PORTFÓLIO!](https://hubportifolio.netlify.app)**
+> 🌐 **[CLIQUE AQUI PARA VER MEU PORTFÓLIO COMPLETO!](https://hubportifolio.netlify.app)** (ou dê uma olhada no [Código do Repositório](https://github.com/AliceSilva2012/portfólio))
 
 ---
 
