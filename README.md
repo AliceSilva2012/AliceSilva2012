@@ -5,6 +5,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 > Tenho 14 anos e sou desenvolvedora Full-Stack em Formação! ☕ Construindo uma base sólida em programação para dar vida a projetos interativos e totalmente funcionais.
+> 
+> 🌐 **[CLIQUE AQUI PARA VER MEU PORTFÓLIO COMPLETO!](https://hubportifolio.netlify.app)**
 
 ---
 
