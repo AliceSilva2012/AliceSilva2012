@@ -4,7 +4,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-> Tenho 14 anos e sou desenvolvedora Full-Stack em Formação! ☕ Construindo uma base sólida em programação para dar vida a projetos interativos e totalmente funcionais.
+> Tenho 14 anos e sou desenvolvedora Full-Stack em Formação! ☕ Construindo uma base sólida em programação para dar vida a projetos interativos e funcionais.
 > 
 > 🌐 **[CLIQUE AQUI PARA VER MEU PORTFÓLIO!](https://hubportifolio.netlify.app)** ou dê uma olhada no [REPOSITÓRIO](https://github.com/AliceSilva2012/portifolio).
 
