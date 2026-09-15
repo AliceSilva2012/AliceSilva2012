@@ -39,6 +39,8 @@ Aqui está o que eu já uso para tirar meus projetos do papel e o que estou come
 
 ## 🌎 Projetos em Destaque
 
+> Aqui estão meus principais projetos até agora! 
+
 📱💻 *Um detalhe: Todos os meus projetos são 100% responsivos! Você pode testar a experiência completa tanto pelo celular quanto pelo PC.*
 
 | Projeto | Descrição | Links |
@@ -46,7 +48,6 @@ Aqui está o que eu já uso para tirar meus projetos do papel e o que estou come
 | ⭐ **Pixelhub** | Meu primeiro projeto web! Um catálogo de jogos com muita lógica em JavaScript puro e sistema de buscas. | [Testar no Navegador](https://pixelhhub.netlify.app/) . [Ver Repositório](https://github.com/AliceSilva2012/pixelhub) |
 | 🐉 **Pokédex** | Uma Pokédex interativa que consome dados reais da PokéAPI em tempo real. | [Testar no Navegador](https://hubpokedex.netlify.app) . [Ver Repositório](https://github.com/AliceSilva2012/pokedex) |
 | 🍔 **Deliveryhub** | Cardápio digital moderno e interativo com integração direta para pedidos via WhatsApp. | [Testar no Navegador](https://deliveryhhub.netlify.app) . [Ver Repositório](https://github.com/AliceSilva2012/deliveryhub) |
-| 🔥 **Projeto STEAM** | Site institucional (SenseFire) focado em monitoramento e prevenção de incêndios florestais (inicialmente um projeto escolar). | [Testar no Navegador](https://sensefire.netlify.app) . [Ver Repositório](https://github.com/AliceSilva2012/projetoSTEAM) |
 
 ---
 
