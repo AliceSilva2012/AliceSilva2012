@@ -1,10 +1,6 @@
 # Olá, eu sou a Alice! 👋🚀
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-> Tenho 14 anos e sou estudante de programação! ☕ Construindo uma base sólida em programação para dar vida a projetos interativos e funcionais.
+> Tenho 14 anos e estou estudando desenvolvimento web! Meu objetivo é me tornar uma desenvolvedora Full-Stack. 💻 Construindo uma base sólida em programação para dar vida a projetos interativos e funcionais.
 > 
 > 🌐 **[CLIQUE AQUI PARA VER MEU PORTFÓLIO!](https://hubportifolio.netlify.app)** ou dê uma olhada no [REPOSITÓRIO](https://github.com/AliceSilva2012/portifolio).
 
@@ -14,7 +10,7 @@
 
 Bem-vindo ao meu espaço no GitHub! Comecei minha jornada no desenvolvimento web do zero em março de 2026. Esse espaço funciona como um Hub da minha evolução e uma vitrine do que venho construindo até agora.
 
-Meu objetivo principal não é apenas fazer layouts bonitos, mas criar aplicações com uma lógica bem estruturada por trás. Por isso, estou focada em dominar **JavaScript (ES6+)**, manipulação de DOM e consumo de APIs antes de pular para a próxima fase. Meus próximos passos incluem aprender principalmente **React** para turbinar o Front-End e **Node.js** para ter uma base como desenvolvedora Full-Stack e aprender cada vez mais.
+Meu objetivo principal não é apenas fazer layouts bonitos, mas criar aplicações com uma lógica bem estruturada por trás. Por isso, estou focada em aprofundar meus *JavaScript (ES6+)**, manipulação de DOM e consumo de APIs antes de pular para a próxima fase. Meus próximos passos incluem aprender principalmente **React** para turbinar o Front-End e **Node.js** para ter uma base como desenvolvedora Full-Stack e aprender cada vez mais.
 
 ---
 
