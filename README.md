@@ -2,7 +2,7 @@
 
 > Tenho 14 anos e estou estudando desenvolvimento web! Meu objetivo é me tornar uma desenvolvedora Full-Stack. 💻 Construindo uma base sólida em programação para dar vida a projetos interativos e funcionais.
 > 
-> 🌐 **[CLIQUE AQUI PARA VER MEU PORTFÓLIO!](https://hubportifolio.netlify.app)** ou dê uma olhada no [REPOSITÓRIO](https://github.com/AliceSilva2012/portifolio).
+> 🌐 **[CLIQUE AQUI PARA VER MEU PORTFÓLIO!](https://hubportfolio.netlify.app)** ou dê uma olhada no [REPOSITÓRIO](https://github.com/AliceSilva2012/portifolio).
 
 ---
 
