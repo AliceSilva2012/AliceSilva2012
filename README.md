@@ -39,7 +39,7 @@ Aqui está o que eu já uso para tirar meus projetos do papel e o que estou come
 
 > Aqui estão meus principais projetos até agora! 
 
-📱💻 *Um detalhe: Os projetos a seguir são 100% responsivos! Você pode testar a experiência completa tanto pelo celular quanto pelo PC.*
+📱💻 *Um detalhe: Os projetos a seguir são 100% responsivos! Você pode testar a experiência completa tanto pelo celular quanto pelo PC (ou outro dispositivo).*
 
 | Projeto | Descrição | Links |
 | :--- | :--- | :--- |
