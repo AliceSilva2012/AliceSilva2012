@@ -46,6 +46,8 @@ Aqui está o que eu já uso para tirar meus projetos do papel e o que estou come
 | ⭐ **Pixelhub** | Meu primeiro projeto web! Um catálogo de jogos com muita lógica em JavaScript puro e sistema de buscas. | [Testar no Navegador](https://alicesilva2012.github.io/pixelhub/). [Ver Repositório](https://github.com/AliceSilva2012/pixelhub) |
 | 🐉 **Pokédex** | Uma Pokédex interativa que consome dados reais da PokéAPI em tempo real. | [Testar no Navegador](https://alicesilva2012.github.io/pokedex/) . [Ver Repositório](https://github.com/AliceSilva2012/pokedex) |
 
+[![As minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AliceSilva2012&show_icons=true&theme=radical)](https://github.com/SEU_USERNAME)
+
 ---
 
 ## 📫 Bora trocar uma ideia?
