@@ -6,6 +6,12 @@
 
 ---
 
+## 📊 Um pouco sobre meu desenpenho
+
+[![As minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AliceSilva2012&show_icons=true&theme=radical)](https://github.com/AliceSilva2012)
+
+---
+
 ## 💻 Sobre Mim e Meu Foco
 
 Bem-vindo ao meu espaço no GitHub! Comecei minha jornada no desenvolvimento web do zero em março de 2026. Esse espaço funciona como um Hub da minha evolução e uma vitrine do que venho construindo até agora.
@@ -45,12 +51,6 @@ Aqui está o que eu já uso para tirar meus projetos do papel e o que estou come
 | :--- | :--- | :--- |
 | ⭐ **Pixelhub** | Meu primeiro projeto web! Um catálogo de jogos com muita lógica em JavaScript puro e sistema de buscas. | [Testar no Navegador](https://alicesilva2012.github.io/pixelhub/). [Ver Repositório](https://github.com/AliceSilva2012/pixelhub) |
 | 🐉 **Pokédex** | Uma Pokédex interativa que consome dados reais da PokéAPI em tempo real. | [Testar no Navegador](https://alicesilva2012.github.io/pokedex/) . [Ver Repositório](https://github.com/AliceSilva2012/pokedex) |
-
----
-
-## 📊 Um pouco sobre meu desenpenho
-
-[![As minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AliceSilva2012&show_icons=true&theme=radical)](https://github.com/SEU_USERNAME)
 
 ---
 
