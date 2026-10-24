@@ -6,17 +6,17 @@
 
 ---
 
-## 📊 Um pouco sobre meu desenpenho
-
-[![As minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AliceSilva2012&show_icons=true&theme=radical)](https://github.com/AliceSilva2012)
-
----
-
 ## 💻 Sobre Mim e Meu Foco
 
 Bem-vindo ao meu espaço no GitHub! Comecei minha jornada no desenvolvimento web do zero em março de 2026. Esse espaço funciona como um Hub da minha evolução e uma vitrine do que venho construindo até agora.
 
 Meu objetivo principal não é apenas fazer layouts bonitos, mas criar aplicações com uma lógica bem estruturada nos bastidores. Por isso, estou me aprofundando meus **JavaScript (ES6+)**, manipulação de DOM e consumo de APIs antes de pular para a próxima fase. Meus próximos passos incluem aprender principalmente **React** para turbinar o Front-End e **MySQL** para ter uma boa base como desenvolvedora Full-Stack e aprender cada vez mais.
+
+---
+
+## 📊 Um pouco sobre meu desenpenho
+
+[![As minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AliceSilva2012&show_icons=true&theme=radical)](https://github.com/AliceSilva2012)
 
 ---
 
