@@ -37,7 +37,7 @@ Aqui está o que eu já uso para tirar meus projetos do papel e o que estou come
 
 ## 🌎 Projetos em Destaque
 
-> Aqui estão meus principais projetos até agora! 
+> Aqui estão meus projetos preferidos até agora! 
 
 📱💻 *Um detalhe: Os projetos a seguir são 100% responsivos! Você pode testar a experiência completa tanto pelo celular quanto pelo PC (ou outro dispositivo).*
 
