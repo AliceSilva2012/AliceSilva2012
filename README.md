@@ -14,12 +14,6 @@ Meu objetivo principal não é apenas fazer layouts bonitos, mas criar aplicaç�
 
 ---
 
-## 📊 Um pouco sobre meu desenpenho
-
-[![As minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AliceSilva2012&show_icons=true&theme=radical)](https://github.com/AliceSilva2012)
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 Aqui está o que eu já uso para tirar meus projetos do papel e o que estou começando a explorar:
