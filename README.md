@@ -52,7 +52,6 @@ Meus próximos passos incluem me aprofundar em **React** para turbinar o Front-E
 | ☁️ **Previsão do Tempo** | **Front-End & IA** | Consulta de clima em tempo real consumindo OpenWeatherMap API e sugestões de vestuário com Groq AI. | [Navegador](https://alicesilva2012.github.io/previsao_tempo/) • [Repositório](https://github.com/AliceSilva2012/previsao_tempo) |
 | 🎵 **Spotify Web** | **Front-End & API** | Interface inspirada no Spotify que consome a iTunes Search API com prévia de áudio instantânea. | [Navegador](https://alicesilva2012.github.io/spotify/) • [Repositório](https://github.com/AliceSilva2012/spotify) |
 | 🎮 **Pokédex Web** | **Front-End & API** | Pokédex interativa consumindo dados em tempo real da PokéAPI com sprites animados. | [Navegador](https://alicesilva2012.github.io/pokedex/) • [Repositório](https://github.com/AliceSilva2012/pokedex) |
-| 🚀 **Omnitrix Web** | **Front-End Interativo** | Aplicação inspirada no Ben 10 com manipulação de DOM e efeitos holográficos em CSS. | [Navegador](https://alicesilva2012.github.io/ominitrix/) • [Repositório](https://github.com/AliceSilva2012/ominitrix) |
 
 ---
 
