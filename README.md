@@ -56,8 +56,8 @@ Meus próximos passos incluem me aprofundar em **React** para turbinar o Front-E
 ## 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliceSilva2012&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Alice" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceSilva2012&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api?username=AliceSilva2012&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Alice" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AliceSilva2012&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150" />
 </p>
 
 ---
