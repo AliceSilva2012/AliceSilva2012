@@ -53,7 +53,7 @@ Meus próximos passos incluem me aprofundar em **React** para turbinar o Front-E
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📈 Minhas Estatísticas aqui no GitHub!
 
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=AliceSilva2012&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Alice" height="150" />
