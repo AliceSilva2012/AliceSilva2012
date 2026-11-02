@@ -2,7 +2,7 @@
 
 > Tenho 14 anos e estou estudando desenvolvimento de software! Em transição de Front-End para **Full-Stack** com foco no ecossistema JavaScript e Node.js. 💻 Construindo uma base sólida em programação para dar vida a aplicações interativas, automações e integração com IA.
 > 
-> 🌐 [CLIQUE AQUI PARA VER MEU PORTFÓLIO!](https://alicesilva2012.github.io/portfolio/) ou dê uma olhada no [REPOSITÓRIO](https://github.com/AliceSilva2012/portfolio).
+> [CLIQUE AQUI PARA VER MEU PORTFÓLIO!](https://alicesilva2012.github.io/portfolio/) ou dê uma olhada no [REPOSITÓRIO](https://github.com/AliceSilva2012/portfolio).
 
 ---
 
