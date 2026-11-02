@@ -63,12 +63,6 @@ Meus próximos passos incluem me aprofundar em **React** para turbinar o Front-E
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AliceSilva2012&layout=compact&theme=radical" height="150" alt="Linguagens mais usadas" />
 </p>
 
-## 🏆 Minhas Conquistas no GitHub
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=AliceSilva2012&theme=radical&no-frame=true" alt="Troféus" />
-</p>
-
 ---
 
 ## 📫 Bora trocar uma ideia?
@@ -78,9 +72,3 @@ Sinta-se à vontade para explorar meus repositórios, mandar sugestões nos proj
 - ✉️ **GitHub:** [@AliceSilva2012](https://github.com/AliceSilva2012)
 - 🌐 **Portfólio:** [alicesilva2012.github.io/portfolio](https://alicesilva2012.github.io/portfolio/)
 - 💼 **LinkedIn:** *(Em breve)*
-
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/AliceSilva2012/count.svg" alt="Contador de Visitas" />
-</p>
