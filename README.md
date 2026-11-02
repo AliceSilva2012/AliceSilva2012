@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Estudante+Full-Stack;Desenvolvedora+JavaScript;Node.js+%26+Automa%C3%A7%C3%B5es" alt="Typing SVG" />
+</p>
+
 # Olá, eu sou a Alice! 👋🚀
 
 > Tenho 14 anos e estou estudando desenvolvimento de software! Em transição de Front-End para **Full-Stack** com foco no ecossistema JavaScript e Node.js. 💻 Construindo uma base sólida em programação para dar vida a aplicações interativas, automações e integração com IA.
@@ -53,12 +57,17 @@ Meus próximos passos incluem me aprofundar em **React** para turbinar o Front-E
 
 ---
 
-## 📈 Minhas Estatísticas aqui no GitHub!
+## 📈 Estatísticas & Sequência
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=AliceSilva2012&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Alice" height="150" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AliceSilva2012&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150" />
-<img src="https://streak-stats.demolab.com?user=AliceSilva2012&theme=radical" alt="GitHub Streak" height="150" />
+  <img src="https://streak-stats.demolab.com?user=AliceSilva2012&theme=radical" height="150" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AliceSilva2012&layout=compact&theme=radical" height="150" alt="Linguagens mais usadas" />
+</p>
+
+## 🏆 Minhas Conquistas no GitHub
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=AliceSilva2012&theme=radical&no-frame=true" alt="Troféus" />
 </p>
 
 ---
