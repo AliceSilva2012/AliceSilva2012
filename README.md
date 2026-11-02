@@ -1,6 +1,10 @@
-# Olá, eu sou a Alice! 👋🚀 <p align="center">
+# Olá, eu sou a Alice! 👋🚀 
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Estudante+Full-Stack;Desenvolvedora+JavaScript;Node.js+%26+Automa%C3%A7%C3%B5es" alt="Typing SVG" />
 </p>
+
+---
 
 > Tenho 14 anos e estou estudando desenvolvimento de software! Em transição de Front-End para **Full-Stack** com foco no ecossistema JavaScript e Node.js. 💻 Construindo uma base sólida em programação para dar vida a aplicações interativas, automações e integração com IA.
 > 
