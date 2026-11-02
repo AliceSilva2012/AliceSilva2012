@@ -6,7 +6,7 @@
 
 > Tenho 14 anos e estou estudando desenvolvimento de software! Em transição de Front-End para **Full-Stack** com foco no ecossistema JavaScript e Node.js. 💻 Construindo uma base sólida em programação para dar vida a aplicações interativas, automações e integração com IA.
 > 
-> [CLIQUE AQUI PARA VER MEU PORTFÓLIO!](https://alicesilva2012.github.io/portfolio/) ou dê uma olhada no [REPOSITÓRIO](https://github.com/AliceSilva2012/portfolio).
+> 🌐 [CLIQUE AQUI PARA VER MEU PORTFÓLIO!](https://alicesilva2012.github.io/portfolio/) ou dê uma olhada no [REPOSITÓRIO](https://github.com/AliceSilva2012/portfolio).
 
 ---
 
@@ -33,7 +33,6 @@ Meus próximos passos incluem me aprofundar em **React** para turbinar o Front-E
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 ### Meus Próximos Passos
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -79,3 +78,9 @@ Sinta-se à vontade para explorar meus repositórios, mandar sugestões nos proj
 - ✉️ **GitHub:** [@AliceSilva2012](https://github.com/AliceSilva2012)
 - 🌐 **Portfólio:** [alicesilva2012.github.io/portfolio](https://alicesilva2012.github.io/portfolio/)
 - 💼 **LinkedIn:** *(Em breve)*
+
+---
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/AliceSilva2012/count.svg" alt="Contador de Visitas" />
+</p>
