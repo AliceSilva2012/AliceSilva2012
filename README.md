@@ -11,7 +11,7 @@
 
 ## 💻 Sobre Mim e Meu Foco
 
-Bem-vindo ao meu espaço no GitHub! Comecei minha jornada no desenvolvimento web do zero em 2026. Este espaço funciona como um Hub da minha evolução e uma vitrine do que venho construindo.
+Bem-vindo ao meu espaço no GitHub! Comecei minha jornada no desenvolvimento web do zero em março de 2026. Este espaço funciona como um Hub da minha evolução e uma vitrine do que venho construindo.
 
 Meu foco é criar aplicações completas, combinando interfaces modernas com uma lógica de servidor bem estruturada. Já desenvolvo projetos **Full-Stack**, crio ferramentas de linha de comando (CLI) com **Node.js (POO)** e estruturo automações de **CI/CD via GitHub Actions**. 
 
