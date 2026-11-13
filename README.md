@@ -68,5 +68,5 @@ Meus próximos passos incluem me aprofundar em **React** para turbinar o Front-E
 Sinta-se à vontade para explorar meus repositórios, mandar sugestões nos projetos ou acompanhar minha evolução por aqui!
 
 - ✉️ **GitHub:** [@AliceSilva2012](https://github.com/AliceSilva2012)
-- 🌐 **Portfólio: (via WhatsApp)** [alicesilva2012.github.io/portfolio](https://alicesilva2012.github.io/portfolio/)
+- 🌐 **Portfólio (via WhatsApp):** [alicesilva2012.github.io/portfolio](https://alicesilva2012.github.io/portfolio/)
 - 💼 **LinkedIn:** *(Em breve)*
