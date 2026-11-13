@@ -9,25 +9,6 @@
 
 ---
 
-## 📈 Estatísticas & Sequência
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=AliceSilva2012&theme=radical" height="150" alt="GitHub Streak" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AliceSilva2012&layout=compact&theme=radical" height="150" alt="Linguagens mais usadas" />
-</p>
-
----
-
-## 💻 Sobre Mim e Meu Foco
-
-Bem-vindo ao meu espaço no GitHub! Comecei minha jornada no desenvolvimento web do zero em março de 2026. Este espaço funciona como um Hub da minha evolução e uma vitrine do que venho construindo.
-
-Meu foco é criar aplicações completas, combinando interfaces modernas com uma lógica de servidor bem estruturada. Já desenvolvo projetos **Full-Stack**, crio ferramentas de linha de comando (CLI) com **Node.js (POO)** e estruturo automações de **CI/CD via GitHub Actions**. 
-
-Meus próximos passos incluem me aprofundar em **React** para turbinar o Front-End, bancos de dados (**MySQL/PostgreSQL**) e arquitetura de REST APIs!
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Tecnologias Atuais
@@ -46,6 +27,25 @@ Meus próximos passos incluem me aprofundar em **React** para turbinar o Front-E
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+## 💻 Sobre Mim e Meu Foco
+
+Bem-vindo ao meu espaço no GitHub! Comecei minha jornada no desenvolvimento web do zero em março de 2026. Este espaço funciona como um Hub da minha evolução e uma vitrine do que venho construindo.
+
+Meu foco é criar aplicações completas, combinando interfaces modernas com uma lógica de servidor bem estruturada. Já desenvolvo projetos **Full-Stack**, crio ferramentas de linha de comando (CLI) com **Node.js (POO)** e estruturo automações de **CI/CD via GitHub Actions**. 
+
+Meus próximos passos incluem me aprofundar em **React** para turbinar o Front-End, bancos de dados (**MySQL/PostgreSQL**) e arquitetura de REST APIs!
+
+---
+
+## 📈 Estatísticas & Sequência
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=AliceSilva2012&theme=radical" height="150" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AliceSilva2012&layout=compact&theme=radical" height="150" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
