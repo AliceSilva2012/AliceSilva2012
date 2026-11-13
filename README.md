@@ -9,6 +9,15 @@
 
 ---
 
+## 📈 Estatísticas & Sequência
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=AliceSilva2012&theme=radical" height="150" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AliceSilva2012&layout=compact&theme=radical" height="150" alt="Linguagens mais usadas" />
+</p>
+
+---
+
 ## 💻 Sobre Mim e Meu Foco
 
 Bem-vindo ao meu espaço no GitHub! Comecei minha jornada no desenvolvimento web do zero em março de 2026. Este espaço funciona como um Hub da minha evolução e uma vitrine do que venho construindo.
@@ -51,15 +60,6 @@ Meus próximos passos incluem me aprofundar em **React** para turbinar o Front-E
 | ☁️ **Previsão do Tempo** | **Front-End & IA** | Consulta de clima em tempo real consumindo OpenWeatherMap API e sugestões de vestuário com Groq AI. | [Navegador](https://alicesilva2012.github.io/previsao_tempo/) • [Repositório](https://github.com/AliceSilva2012/previsao_tempo) |
 | 🎵 **Spotify Web** | **Front-End & API** | Interface inspirada no Spotify que consome a iTunes Search API com prévia de áudio instantânea. | [Navegador](https://alicesilva2012.github.io/spotify/) • [Repositório](https://github.com/AliceSilva2012/spotify) |
 | 🎮 **Pokédex Web** | **Front-End & API** | Pokédex interativa consumindo dados em tempo real da PokéAPI com sprites animados. | [Navegador](https://alicesilva2012.github.io/pokedex/) • [Repositório](https://github.com/AliceSilva2012/pokedex) |
-
----
-
-## 📈 Estatísticas & Sequência
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=AliceSilva2012&theme=radical" height="150" alt="GitHub Streak" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AliceSilva2012&layout=compact&theme=radical" height="150" alt="Linguagens mais usadas" />
-</p>
 
 ---
 
