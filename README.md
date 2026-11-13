@@ -1,4 +1,5 @@
-# Olá, eu sou a Alice! 👋🚀 
+<h1 align="center">Olá, eu sou a Alice! 👋🚀</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Estudante+Full-Stack;Desenvolvedora+JavaScript;Node.js+%26+Automa%C3%A7%C3%B5es" alt="Typing SVG" />
 </p>
@@ -69,5 +70,5 @@ Meus próximos passos incluem me aprofundar em **React** para turbinar o Front-E
 Sinta-se à vontade para explorar meus repositórios, mandar sugestões nos projetos ou acompanhar minha evolução por aqui!
 
 - ✉️ **GitHub:** [@AliceSilva2012](https://github.com/AliceSilva2012)
-- 🌐 **Portfólio (via WhatsApp):** [alicesilva2012.github.io/portfolio](https://alicesilva2012.github.io/portfolio/)
+- 🌐 **Portfólio:** [alicesilva2012.github.io/portfolio](https://alicesilva2012.github.io/portfolio/)
 - 💼 **LinkedIn:** *(Em breve)*
