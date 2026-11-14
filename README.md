@@ -57,7 +57,7 @@ Meus próximos passos incluem me aprofundar em **React** para turbinar o Front-E
 
 | Projeto | Categoria | Descrição | Links |
 | :--- | :--- | :--- | :--- |
-| 🤖 **J.A.R.V.I.S.** | **Full-Stack & IA** | Assistente virtual interativo com Node.js/Express, IA Llama 3.2 (OpenRouter) e reconhecimento/síntese de voz. | [Repositório](https://github.com/AliceSilva2012/agente-ia) |
+| 🤖 **J.A.R.V.I.S.** | **Full-Stack & IA** | Assistente virtual interativo com Node.js/Express, inferência ultrarrápida via Groq API (`gpt-oss-120b`) com fallback automático para OpenRouter e interação por voz (Web Speech API). | [Repositório](https://github.com/AliceSilva2012/agente-ia) |
 | 💻 **Conversa com Terminal** | **Back-End & CI/CD** | Aplicação CLI interativa em Node.js com Orientação a Objetos e testes automatizados via GitHub Actions. | [Repositório](https://github.com/AliceSilva2012/teste_node-js) |
 | ☁️ **Previsão do Tempo** | **Front-End & IA** | Consulta de clima em tempo real consumindo OpenWeatherMap API e sugestões de vestuário com Groq AI. | [Navegador](https://alicesilva2012.github.io/previsao_tempo/) • [Repositório](https://github.com/AliceSilva2012/previsao_tempo) |
 | 🎵 **Spotify Web** | **Front-End & API** | Interface inspirada no Spotify que consome a iTunes Search API com prévia de áudio instantânea. | [Navegador](https://alicesilva2012.github.io/spotify/) • [Repositório](https://github.com/AliceSilva2012/spotify) |
