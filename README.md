@@ -13,7 +13,7 @@
 ## 🛠️ Tecnologias e Ferramentas 
 
 ## 🚀 Stacks
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,python,javascript,nodejs,postman,git,hibernate,grafana)](https://skillicons.dev)<br><br>
 
 
 ### Tecnologias Atuais
