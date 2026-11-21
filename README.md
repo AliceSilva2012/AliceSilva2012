@@ -13,7 +13,8 @@
 ## 🛠️ Tecnologias e Ferramentas 
 
 ## 🚀 Stacks
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
 
 
 ### Tecnologias Atuais
