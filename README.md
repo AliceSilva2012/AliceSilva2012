@@ -14,13 +14,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,github,git,express)](https://skillicons.dev)<br><br>
 
-### Meus Próximos Passos
+## 💻 Meus Próximos Passos
 
 [![My Skills](https://skillicons.dev/icons?i=react,mysql,postgresql)](https://skillicons.dev)<br><br>
 
 ---
 
-## 💻 Sobre Mim e Meu Foco
+## Sobre Mim e Meu Foco
 
 Bem-vindo ao meu espaço no GitHub! Comecei minha jornada no desenvolvimento web do zero em março de 2026. Este espaço funciona como um Hub da minha evolução e uma vitrine do que venho construindo.
 
