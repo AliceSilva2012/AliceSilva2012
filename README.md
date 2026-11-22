@@ -4,16 +4,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Estudante+Full-Stack;Desenvolvedora+JavaScript;Node.js+%26+Automa%C3%A7%C3%B5es" alt="Typing SVG" />
 </p>
 
-> Tenho 14 anos e estou estudando desenvolvimento de software! Estudante de desenvolvimento de software, construindo minha jornada como desenvolvedora Full-Stack com foco no ecossistema JavaScript e Node.js. Venho construindo uma base sólida na programação para dar vida a aplicações interativas, automações e integração com IA.
+> Tenho 14 anos e estou construindo minha jornada como desenvolvedora Full-Stack com foco no ecossistema JavaScript e Node.js, criando aplicações interativas, automações e integrações com IA.
 > 
 > 🌐 [CLIQUE AQUI PARA VER MEU PORTFÓLIO!](https://alicesilva2012.github.io/portfolio/) ou dê uma olhada no [REPOSITÓRIO](https://github.com/AliceSilva2012/portfolio).
 
+<h2 align="center">💻 Tecnologias e Ferramentas</h2>
 
-<h2 align= "center">💻 My Stacks and Learning</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,git,github" alt="Minhas Tecnologias" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,github,git,express)](https://skillicons.dev)<br><br>
+---
 
-<h2 align= "center">Sobre Mim e Meu Foco</h2>
+<h2 align="center">Sobre Mim e Meu Foco</h2>
 
 Bem-vindo ao meu espaço no GitHub! Comecei minha jornada no desenvolvimento web do zero em março de 2026. Este espaço funciona como um Hub da minha evolução e uma vitrine do que venho construindo.
 
@@ -21,10 +26,9 @@ Atualmente, meu foco é criar aplicações completas, combinando interfaces mode
 
 Meus próximos passos incluem me aprofundar em **React** para turbinar o Front-End, bancos de dados (**MySQL/PostgreSQL**) e arquitetura de REST APIs!
 
-
 ---
 
-<h2 align= "center">📈 Estatísticas & Sequência</h2>
+<h2 align="center">📈 Estatísticas & Sequência</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AliceSilva2012&theme=radical" height="150" alt="GitHub Streak" />
@@ -33,7 +37,7 @@ Meus próximos passos incluem me aprofundar em **React** para turbinar o Front-E
 
 ---
 
-<h2 align= "center">🌎 Projetos em Destaque</h2>
+<h2 align="center">🌎 Projetos em Destaque</h2>
 
 > Alguns dos meus projetos mais marcantes organizados por área:
 
@@ -47,13 +51,17 @@ Meus próximos passos incluem me aprofundar em **React** para turbinar o Front-E
 
 ---
 
-<h2 align= "center">💻 Meus Próximos Passos</h2>
+<h2 align="center">🚀 Meus Próximos Passos</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,mysql,postgresql)](https://skillicons.dev)<br><br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,mysql,postgresql" alt="Próximos Passos" />
+  </a>
+</p>
 
 ---
 
-<h2 align= "center">📫 Bora trocar uma ideia?</h2>
+<h2 align="center">📫 Bora trocar uma ideia?</h2>
 
 Sinta-se à vontade para explorar meus repositórios, mandar sugestões nos projetos ou acompanhar minha evolução por aqui!
 
