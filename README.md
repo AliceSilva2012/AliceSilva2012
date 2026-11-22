@@ -4,11 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Estudante+Full-Stack;Desenvolvedora+JavaScript;Node.js+%26+Automa%C3%A7%C3%B5es" alt="Typing SVG" />
 </p>
 
-> Tenho 14 anos e estou estudando desenvolvimento de software! Estudante de desenvolvimento de software, construindo minha jornada como desenvolvedora Full-Stack com foco no ecossistema JavaScript e Node.js. 💻 Venho construindo uma base sólida na programação para dar vida a aplicações interativas, automações e integração com IA.
+> Tenho 14 anos e estou estudando desenvolvimento de software! Estudante de desenvolvimento de software, construindo minha jornada como desenvolvedora Full-Stack com foco no ecossistema JavaScript e Node.js. Venho construindo uma base sólida na programação para dar vida a aplicações interativas, automações e integração com IA.
 > 
 > 🌐 [CLIQUE AQUI PARA VER MEU PORTFÓLIO!](https://alicesilva2012.github.io/portfolio/) ou dê uma olhada no [REPOSITÓRIO](https://github.com/AliceSilva2012/portfolio).
 
-## My Stacks
+## 💻 My Stacks
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,github,git,express)](https://skillicons.dev)<br><br>
 
