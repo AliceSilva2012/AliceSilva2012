@@ -10,17 +10,17 @@
 
 ---
 
-## 🚀 Tecnologias e Ferramentas 
+<h2 align= "center">🚀 Tecnologias e Ferramentas</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,github,git,express)](https://skillicons.dev)<br><br>
 
-## 💻 Meus Próximos Passos
+<h2 align= "center">💻 Meus Próximos Passos</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=react,mysql,postgresql)](https://skillicons.dev)<br><br>
 
 ---
 
-## 📈 Estatísticas & Sequência
+<h2 align= "center">📈 Estatísticas & Sequência</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AliceSilva2012&theme=radical" height="150" alt="GitHub Streak" />
@@ -29,7 +29,7 @@
 
 ---
 
-## Sobre Mim e Meu Foco
+<h2 align= "center">Sobre Mim e Meu Foco</h2>
 
 Bem-vindo ao meu espaço no GitHub! Comecei minha jornada no desenvolvimento web do zero em março de 2026. Este espaço funciona como um Hub da minha evolução e uma vitrine do que venho construindo.
 
@@ -39,7 +39,7 @@ Meus próximos passos incluem me aprofundar em **React** para turbinar o Front-E
 
 ---
 
-## 🌎 Projetos em Destaque
+<h2 align= "center">🌎 Projetos em Destaque</h2>
 
 > Alguns dos meus projetos mais marcantes organizados por área:
 
@@ -53,7 +53,7 @@ Meus próximos passos incluem me aprofundar em **React** para turbinar o Front-E
 
 ---
 
-## 📫 Bora trocar uma ideia?
+<h2 align= "center">📫 Bora trocar uma ideia?</h2>
 
 Sinta-se à vontade para explorar meus repositórios, mandar sugestões nos projetos ou acompanhar minha evolução por aqui!
 
