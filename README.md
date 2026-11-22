@@ -58,5 +58,4 @@
 Sinta-se à vontade para explorar meus repositórios, mandar sugestões nos projetos ou acompanhar minha evolução por aqui!
 
 - 💻 **GitHub:** [@AliceSilva2012](https://github.com/AliceSilva2012)
-- 🌐 **Portfólio:** [alicesilva2012.github.io/portfolio](https://alicesilva2012.github.io/portfolio/)
 - 💼 **LinkedIn:** *(Em breve)*
