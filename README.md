@@ -9,7 +9,7 @@
 > 🌐 [CLIQUE AQUI PARA VER MEU PORTFÓLIO!](https://alicesilva2012.github.io/portfolio/) ou dê uma olhada no [REPOSITÓRIO](https://github.com/AliceSilva2012/portfolio).
 
 
-**💻 My Stacks and Learning**
+<h2>💻 My Stacks and Learning</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,github,git,express)](https://skillicons.dev)<br><br>
 
