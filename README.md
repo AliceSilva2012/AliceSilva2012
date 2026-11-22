@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Estudante+Full-Stack;Desenvolvedora+JavaScript;Node.js+%26+Automa%C3%A7%C3%B5es" alt="Typing SVG" />
 </p>
 
-> Tenho 14 anos e estou construindo minha jornada como desenvolvedora Full-Stack com foco no ecossistema JavaScript e Node.js, criando aplicações interativas, automações e integrações com IA.
+> Bem-vindo ao meu espaço no GitHub! Tenho 14 anos e comecei minha jornada no desenvolvimento web do zero em março de 2026. Este espaço funciona como um Hub da minha evolução e uma vitrine do que venho construindo como desenvolvedora **Full-Stack** no ecossistema **JavaScript** e **Node.js**.
+>
+> Atualmente, meu foco é criar aplicações completas, combinando interfaces modernas com uma lógica de servidor bem estruturada — desenvolvendo ferramentas de linha de comando (CLI) com **Node.js (POO)**, integrações com **IA** e automações de **CI/CD via GitHub Actions**. Meus próximos passos incluem me aprofundar em **React**, bancos de dados (**MySQL/PostgreSQL**) e arquitetura de REST APIs!
 > 
 > 🌐 [CLIQUE AQUI PARA VER MEU PORTFÓLIO!](https://alicesilva2012.github.io/portfolio/) ou dê uma olhada no [REPOSITÓRIO](https://github.com/AliceSilva2012/portfolio).
 
@@ -15,16 +17,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,git,github" alt="Minhas Tecnologias" />
   </a>
 </p>
-
----
-
-<h2 align="center">Sobre Mim e Meu Foco</h2>
-
-Bem-vindo ao meu espaço no GitHub! Comecei minha jornada no desenvolvimento web do zero em março de 2026. Este espaço funciona como um Hub da minha evolução e uma vitrine do que venho construindo.
-
-Atualmente, meu foco é criar aplicações completas, combinando interfaces modernas com uma lógica de servidor bem estruturada. Já desenvolvo projetos **Full-Stack**, crio ferramentas de linha de comando (CLI) com **Node.js (POO)** e estruturo automações de **CI/CD via GitHub Actions**. 
-
-Meus próximos passos incluem me aprofundar em **React** para turbinar o Front-End, bancos de dados (**MySQL/PostgreSQL**) e arquitetura de REST APIs!
 
 ---
 
