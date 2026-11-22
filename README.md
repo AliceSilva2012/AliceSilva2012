@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Estudante+Full-Stack;Desenvolvedora+JavaScript;Node.js+%26+Automa%C3%A7%C3%B5es" alt="Typing SVG" />
 </p>
 
-> Bem-vindo ao meu espaço no GitHub! Tenho 14 anos e comecei minha jornada no desenvolvimento web do zero em março de 2026. Este espaço funciona como um Hub da minha evolução e uma vitrine do que venho construindo como desenvolvedora **Full-Stack** no ecossistema **JavaScript** e **Node.js**.
+> Bem-vindo(a) ao meu espaço no GitHub! Tenho 14 anos e comecei minha jornada no desenvolvimento web do zero em março de 2026. Este espaço funciona como um Hub da minha evolução e uma vitrine do que venho construindo como desenvolvedora **Full-Stack** no ecossistema **JavaScript** e **Node.js**.
 >
 > Atualmente, meu foco é criar aplicações completas, combinando interfaces modernas com uma lógica de servidor bem estruturada — desenvolvendo ferramentas de linha de comando (CLI) com **Node.js (POO)**, integrações com **IA** e automações de **CI/CD via GitHub Actions**. Meus próximos passos incluem me aprofundar em **React**, bancos de dados (**MySQL/PostgreSQL**) e arquitetura de REST APIs!
 > 
