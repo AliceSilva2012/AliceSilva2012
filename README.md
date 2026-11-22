@@ -16,9 +16,7 @@
 
 <h2 align= "center">💻 Meus Próximos Passos</h2>
 
-<p align= "center">
 [![My Skills](https://skillicons.dev/icons?i=react,mysql,postgresql)](https://skillicons.dev)<br><br>
-</p>
 
 ---
 
