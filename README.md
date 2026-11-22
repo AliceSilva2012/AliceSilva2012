@@ -8,15 +8,7 @@
 > 
 > 🌐 [CLIQUE AQUI PARA VER MEU PORTFÓLIO!](https://alicesilva2012.github.io/portfolio/) ou dê uma olhada no [REPOSITÓRIO](https://github.com/AliceSilva2012/portfolio).
 
----
-
-<h2 align= "center">🚀 Tecnologias e Ferramentas</h2>
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,github,git,express)](https://skillicons.dev)<br><br>
-
-<h2 align= "center">💻 Meus Próximos Passos</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=react,mysql,postgresql)](https://skillicons.dev)<br><br>
 
 ---
 
@@ -50,6 +42,12 @@ Meus próximos passos incluem me aprofundar em **React** para turbinar o Front-E
 | ☁️ **Previsão do Tempo** | **Front-End & IA** | Consulta de clima em tempo real consumindo OpenWeatherMap API e sugestões de vestuário com Groq AI. | [Navegador](https://alicesilva2012.github.io/previsao_tempo/) • [Repositório](https://github.com/AliceSilva2012/previsao_tempo) |
 | 🎵 **Spotify Web** | **Front-End & API** | Interface inspirada no Spotify que consome a iTunes Search API com prévia de áudio instantânea. | [Navegador](https://alicesilva2012.github.io/spotify/) • [Repositório](https://github.com/AliceSilva2012/spotify) |
 | 🎮 **Pokédex Web** | **Front-End & API** | Pokédex interativa consumindo dados em tempo real da PokéAPI com sprites animados. | [Navegador](https://alicesilva2012.github.io/pokedex/) • [Repositório](https://github.com/AliceSilva2012/pokedex) |
+
+---
+
+<h2 align= "center">💻 Meus Próximos Passos</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=react,mysql,postgresql)](https://skillicons.dev)<br><br>
 
 ---
 
