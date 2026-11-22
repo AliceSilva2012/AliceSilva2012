@@ -10,11 +10,11 @@
 
 ---
 
-<h2 align= "center">🚀 Tecnologias e Ferramentas</h2>
+<h2 align= "left">🚀 Tecnologias e Ferramentas</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,github,git,express)](https://skillicons.dev)<br><br>
 
-<h2 align= "center">💻 Meus Próximos Passos</h2>
+<h2 align= "left">💻 Meus Próximos Passos</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=react,mysql,postgresql)](https://skillicons.dev)<br><br>
 
