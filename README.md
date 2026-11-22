@@ -20,6 +20,15 @@
 
 ---
 
+## 📈 Estatísticas & Sequência
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AliceSilva2012&theme=radical" height="150" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AliceSilva2012&layout=compact&theme=radical" height="150" alt="Linguagens mais usadas" />
+</p>
+
+---
+
 ## Sobre Mim e Meu Foco
 
 Bem-vindo ao meu espaço no GitHub! Comecei minha jornada no desenvolvimento web do zero em março de 2026. Este espaço funciona como um Hub da minha evolução e uma vitrine do que venho construindo.
@@ -27,15 +36,6 @@ Bem-vindo ao meu espaço no GitHub! Comecei minha jornada no desenvolvimento web
 Meu foco é criar aplicações completas, combinando interfaces modernas com uma lógica de servidor bem estruturada. Já desenvolvo projetos **Full-Stack**, crio ferramentas de linha de comando (CLI) com **Node.js (POO)** e estruturo automações de **CI/CD via GitHub Actions**. 
 
 Meus próximos passos incluem me aprofundar em **React** para turbinar o Front-End, bancos de dados (**MySQL/PostgreSQL**) e arquitetura de REST APIs!
-
----
-
-## 📈 Estatísticas & Sequência
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AliceSilva2012&theme=radical" height="150" alt="GitHub Streak" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AliceSilva2012&layout=compact&theme=radical" height="150" alt="Linguagens mais usadas" />
-</p>
 
 ---
 
