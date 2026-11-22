@@ -16,10 +16,6 @@
 
 ### Meus Próximos Passos
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
 [![My Skills](https://skillicons.dev/icons?i=react,mysql,postgresql)](https://skillicons.dev)<br><br>
 
 ---
